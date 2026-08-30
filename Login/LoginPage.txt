@@ -1,0 +1,50 @@
+# Login Page
+
+## Welcome Back
+
+Sign in to your account to continue. Enter your registered email address and password below to access your dashboard and account features.
+
+## Sign In
+
+**Email Address**
+Enter the email address associated with your account.
+
+**Password**
+Enter your account password.
+
+**Remember Me**
+Keep me signed in on this device.
+
+**Forgot Password?**
+If you have forgotten your password, use the password recovery option to reset it and regain access to your account.
+
+## Login Options
+
+* Sign in with your email and password
+* Continue with a connected account
+* Reset your forgotten password
+* Contact support for additional assistance
+
+## New to BrightPath?
+
+Create an account to explore our services, save useful resources, and manage your preferences.
+
+**Don't have an account? Sign Up**
+
+## Security Reminder
+
+For your security, never share your password with anyone. Always make sure you are signing in through the official website before entering your account information.
+
+If you are using a shared or public computer, remember to sign out when you are finished.
+
+## Having Trouble?
+
+If you cannot access your account:
+
+* Check that your email address is correct
+* Make sure Caps Lock is not enabled
+* Try resetting your password
+* Check your internet connection
+* Contact our support team if the problem continues
+
+**Welcome back to BrightPath. We're glad to see you again.**

@@ -1,0 +1,46 @@
+# My Profile
+
+Welcome to your profile page. This is where you can view and manage your personal information, account preferences, and recent activity.
+
+## Personal Information
+
+Your profile contains basic information that helps personalize your experience. You can review your details and make changes whenever necessary.
+
+**Name:** Alex Morgan
+**Email:** [alex.morgan@example.com](mailto:alex.morgan@example.com)
+**Location:** Sample City
+**Member Since:** January 2026
+
+## About Me
+
+I enjoy exploring new ideas, learning useful skills, and working on creative projects. I am interested in technology, design, productivity, and discovering better ways to organize everyday tasks.
+
+## Interests
+
+* Technology and innovation
+* Photography
+* Travel and exploration
+* Reading and learning
+* Creative design
+* Personal development
+
+## Account Preferences
+
+You can manage different preferences from your profile:
+
+* Update your personal information
+* Change your profile picture
+* Manage email notifications
+* Update communication preferences
+* Review account activity
+* Change your password
+
+## Recent Activity
+
+Your recent profile activity may include saved resources, viewed content, completed tasks, and other interactions.
+
+Keeping your profile information up to date helps ensure that you receive relevant information and have a smoother experience.
+
+**Profile Status:** Active
+
+Thank you for being part of our community.
